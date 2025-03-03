@@ -184,10 +184,6 @@ button:focus-visible {
   width: 33.3%;
   margin: 10px;
 }
-.imghome:hover {
-  content: url("./image8.png");
-  transition: 0.3s;
-}
 
 .about {
   border: 2px solid rgb(139, 133, 133);
