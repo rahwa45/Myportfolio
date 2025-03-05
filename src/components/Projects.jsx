@@ -67,10 +67,13 @@ const Projects = () => {
             <strong>🛠 Tech Stack:</strong> React, OpenWeather API, Bootstrap
           </p>
           <p>
-            The **Weather App** provides real-time **weather updates** for any
-            location worldwide. Using **OpenWeather API**, it fetches and
-            displays **temperature, humidity, wind speed, and weather
-            conditions** dynamically.
+            The <strong>Weather App </strong> provides real-time{" "}
+            <strong>weather updates</strong> for any location worldwide. Using{" "}
+            <strong>OpenWeather API</strong>, it fetches and displays{" "}
+            <strong>
+              temperature, humidity, wind speed, and weather conditions
+            </strong>{" "}
+            dynamically.
           </p>
           <div className="d-flex justify-content-start link">
             {" "}
@@ -102,10 +105,12 @@ const Projects = () => {
             Bootstrap
           </p>
           <p>
-            The **Book Store App** allows users to **sign up, verify their
-            email, and manage their own book collection**. Users can **add,
-            update, delete, and retrieve books** with authentication features
-            ensuring privacy and security.
+            The <strong>Book Store App </strong> allows users to{" "}
+            <strong>
+              sign up, verify their email, and manage their own book collection
+            </strong>
+            . Users can <strong>add, update, delete, and retrieve books</strong>{" "}
+            with authentication features ensuring privacy and security.
           </p>
           <div className="d-flex justify-content-start link">
             {" "}
@@ -137,10 +142,11 @@ const Projects = () => {
             API
           </p>
           <p>
-            The **Movie API Fetching App** is a **React-based application** that
-            dynamically fetches and displays movie data from an external API.
-            Users can browse movies, search for specific titles, and view
-            details such as ratings, descriptions, and posters.
+            The <strong>Movie API Fetching App</strong> is a{" "}
+            <strong>React-based application</strong> that dynamically fetches
+            and displays movie data from an external API. Users can browse
+            movies, search for specific titles, and view details such as
+            ratings, descriptions, and posters.
           </p>
           <div className="d-flex justify-content-start link">
             <a href="https://react-project1-nine-indol.vercel.app/">
@@ -172,13 +178,13 @@ const Projects = () => {
               Bootstrap, Express
             </p>
             <p>
-              The **Workout Tracker App** is a **React-based web application**
-              designed for fitness enthusiasts to create and manage their
-              workout routines. Users can sign up, log in, and add exercises
-              with specific details such as the exercise title, load in
-              kilograms, and the number of reps. The app ensures that users can
-              only view their own workouts, helping them stay organized and
-              focused on their fitness journey.
+              The <strong>Workout Tracker App</strong> is a{" "}
+              <strong>React-based web application</strong> designed for fitness
+              enthusiasts to create and manage their workout routines. Users can
+              sign up, log in, and add exercises with specific details such as
+              the exercise title, load in kilograms, and the number of reps. The
+              app ensures that users can only view their own workouts, helping
+              them stay organized and focused on their fitness journey.
             </p>
           </p>
           <div className="d-flex justify-content-start link">

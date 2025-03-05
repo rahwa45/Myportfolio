@@ -65,7 +65,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i className="fab fa-github fa-2x fs-5 text-white"></i>
+            <i className="fab fa-github fa-2x fs-5 text-white opacity-100 hover-opacity-75"></i>
           </a>
         </div>
         <p className="text-secondary">
