@@ -236,6 +236,48 @@ const Projects = () => {
           </div>
         </div>
       </div>
+      <div class="w-25 mt-5 mx-5">
+        <h5>Certifications</h5>
+        <div class="dotted-line mb-0"></div>
+      </div>
+
+      <div class="d-flex justify-content-between mx-auto  extradiv1 rounded-4 p-4">
+        <div className="w-50 text-start">
+          <p>
+            <strong>Udacity</strong>
+          </p>
+          <ul>
+            <li>
+              Verified Certificate of Nanodegree Program Completion for
+              Programming Fundamentals
+            </li>
+          </ul>
+          <a
+            href="https://drive.google.com/file/d/1klH1HuE8dGTQVDp3qOqpbXjRXs1wFU19/view?usp=sharing"
+            target="_blank"
+            className="mx-3 text-decoration-none"
+          >
+            View Certificate
+          </a>
+        </div>
+        <div className="text-start">
+          <p>
+            <strong>Cisco Networking Academy</strong>
+          </p>
+          <ul>
+            <li>Entrepreneurship Course</li>
+            <li>IT Essentials</li>
+            <li>IoT Courses</li>
+          </ul>
+          <a
+            href="https://drive.google.com/drive/folders/1RocH55L7SZnknhmUuWkCxmruFDCME2dU?usp=sharing"
+            target="_blank"
+            className="mx-3 text-decoration-none"
+          >
+            View Certificate
+          </a>
+        </div>
+      </div>
     </div>
   );
 };

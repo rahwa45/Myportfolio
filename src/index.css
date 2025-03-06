@@ -77,6 +77,9 @@ body {
 .dark-mode .contact {
   color: white;
 }
+.dark-mode .extradiv1 {
+  border: 2px solid white;
+}
 .dark-mode .contact:hover {
   text-decoration: underline;
   background-color: black;
@@ -167,10 +170,14 @@ button:focus-visible {
 .containskills a {
   padding: 5px 8px 5px;
 }
+.extradiv1 {
+  border: 2px solid rgb(139, 133, 133);
+}
 
 .containabout,
 .containproject,
 .extradiv,
+.extradiv1,
 .home,
 .containskills,
 .footerdiv {
@@ -254,6 +261,9 @@ button:focus-visible {
   background-color: black;
   color: white;
 }
+.footlink a:hover {
+  opacity: 0.6;
+}
 @media (max-width: 810px) {
   .home {
     display: flex;
@@ -298,7 +308,8 @@ button:focus-visible {
   .prodiv {
     width: 90%;
   }
-  .extradiv {
+  .extradiv,
+  .extradiv1 {
     display: flex;
     flex-direction: column;
   }

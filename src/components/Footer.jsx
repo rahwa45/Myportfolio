@@ -24,7 +24,7 @@ const Footer = () => {
           Projects
         </a>
 
-        <div className="d-flex gap-3 justify-content-center mt-4 mb-4">
+        <div className="d-flex gap-3 justify-content-center mt-4 mb-4 footlink">
           <a
             href="https://t.me/Zionn16"
             target="_blank"
@@ -65,7 +65,7 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i className="fab fa-github fa-2x fs-5 text-white opacity-100 hover-opacity-75"></i>
+            <i className="fab fa-github fa-2x fs-5 text-white"></i>
           </a>
         </div>
         <p className="text-secondary">
