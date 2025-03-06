@@ -146,17 +146,17 @@ const About = () => {
 
         <div className="text-start">
           <h6>
-            <strong className="mx-2">Programming Languages:</strong>
+            <strong className="mx-2">Deployment:</strong>
           </h6>
           <ul>
             <li>
-              <span className="badge bg-secondary me-2 ">Java</span>
+              <span className="badge bg-secondary me-2 ">Vercel</span>
             </li>
             <li>
-              <span className="badge bg-dark me-2">C++</span>
+              <span className="badge bg-dark me-2">Render</span>
             </li>
             <li>
-              <span className="badge bg-dark me-2">JavaScript</span>
+              <span className="badge bg-dark me-2">Netlify</span>
             </li>
           </ul>
         </div>
