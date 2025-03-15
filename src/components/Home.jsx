@@ -45,7 +45,7 @@ const Home = () => {
           </p>
 
           <div className="d-flex containskills mb-3">
-            <a href="./resume.pdf" className="btn btn-dark me-2">
+            <a href="./resume2.pdf" className="btn btn-dark me-2">
               <i className="fas fa-download"></i> Download CV
             </a>
             <a

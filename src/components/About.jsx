@@ -18,8 +18,10 @@ const About = () => {
           </h3>
           <p>
             I am a passionate Full-Stack Developer with a strong foundation in
-            web development and system design. I love building efficient,
-            user-friendly applications that solve real-world problems.
+            web development and system design. Additionally, I have experience
+            as a Project Manager, where I schedule and oversee my team's
+            progress, ensuring deadlines are met, supporting team members, and
+            organizing bi-weekly goal meetings with international mentors.
           </p>
         </div>
 
