@@ -37,10 +37,10 @@ const Home = () => {
 
       <div className="d-flex justify-content-center home mx-auto">
         <div className=" homediv">
-          <h1 className="text-start">Hello, i'm Rahwa Gebreyesus</h1>
+          <h1 className="text-start">Hello, I'm Rahwa Gebreyesus</h1>
           <h2 className=" text-start">Fullstack Developer</h2>
           <p className="text-start">
-            Hi, i'm Rahwa Gebreyesus, a passionate Full Stack Developer with a
+            Hi, I'm Rahwa Gebreyesus, a passionate Full Stack Developer with a
             knack for creating dynamic and scalable web application
           </p>
 

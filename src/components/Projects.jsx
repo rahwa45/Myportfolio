@@ -49,6 +49,46 @@ const Projects = () => {
           </div>
         </div>
       </div>
+      <div className="w-25 mt-0 mx-5">
+        <div className="dotted-line mb-0 dot"></div>
+      </div>
+
+      <div className="d-flex justify-content-center mx-auto mt-0 containproject">
+        <div className="p-3 rounded-3 mt-0 projectimg">
+          <img
+            src="./ecommerce.png"
+            alt="E-commerce App Screenshot"
+            className="w-100"
+          />
+        </div>
+        <div className="dotted-line2"></div>
+        <div className="p-3 rounded-3 mt-0 text-start prodiv">
+          <h5 className="fw-bold">Jewelry E-commerce App 💍</h5>
+          <p>
+            <strong>📌 Project Type:</strong> Fullstack Web Application
+          </p>
+          <p>
+            <strong>🛠 Tech Stack:</strong> Next.js, JavaScript, CSS, Unsplash
+            API, LocalStorage
+          </p>
+          <p>
+            The <strong>Jewelry E-commerce App</strong> is a modern online
+            shopping experience for browsing, filtering, and buying jewelry
+            products. Built with <strong>Next.js</strong>, it features product
+            search, filtering by material and collection, cart functionality
+            using <strong>localStorage</strong>, and responsive design.
+          </p>
+          <div className="d-flex justify-content-start link">
+            <a href="https://e-commerce-j7qh.vercel.app/">
+              <i className="fas fa-eye"></i> View Live
+            </a>
+            <a href="https://github.com/rahwa45/e-commerce">
+              <i className="fab fa-github"></i> Source Code
+            </a>
+          </div>
+        </div>
+      </div>
+
       <div className="w-25 mt-5 mx-5">
         <div className="dotted-line mb-0 dot"></div>
       </div>
@@ -86,6 +126,7 @@ const Projects = () => {
           </div>
         </div>
       </div>
+
       <div className="w-25 mt-0 mx-5">
         <div className="dotted-line mb-0 dot"></div>
       </div>
@@ -234,6 +275,18 @@ const Projects = () => {
               <i className="fab fa-github"></i> Source Code
             </a>
           </div>
+        </div>
+      </div>
+      <div class="w-25 mt-5 mx-5">
+        <h5>Figma Designs</h5>
+        <div class="dotted-line mb-0"></div>
+      </div>
+
+      <div class="d-flex justify-content-between mx-auto  extradiv1 rounded-4 p-4">
+        <div className="w-50 text-start">
+          <a href="./figma" className="mx-3 text-decoration-none">
+            View Designs
+          </a>
         </div>
       </div>
       <div class="w-25 mt-5 mx-5">
