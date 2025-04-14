@@ -4,6 +4,7 @@ import Projects from "./Projects.jsx";
 import About from "./About.jsx";
 import Contact from "./Contact.jsx";
 import Footer from "./Footer.jsx";
+
 import { useState, useEffect } from "react";
 import "../index.css";
 
@@ -109,6 +110,7 @@ const Home = () => {
       </div>
       <About />
       <Projects />
+
       <Contact />
       <Footer />
     </div>
