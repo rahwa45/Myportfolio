@@ -80,7 +80,7 @@ const Projects = () => {
             using <strong>localStorage</strong>, and responsive design.
           </p>
           <div className="d-flex justify-content-start link">
-            <a href="https://e-commerce-j7qh.vercel.app/">
+            <a href="https://e-commerce-fgwd.vercel.app/">
               <i className="fas fa-eye"></i> View Live
             </a>
             <a href="https://github.com/rahwa45/e-commerce">
